@@ -559,12 +559,13 @@ tr:hover {
   }
 
   function displayVideos() {
-    let platform = window.platformStatus;
+    const platform = window.platformStatus;
+
+    window.metrics.forEach(metric => {
     const filteredData = window.data.filter(row => row.test === metric && row.platform === platform);
     const metricData = filteredData[0];
     const videoPath = metricData.video_side_by_side;
 
-    window.metrics.forEach(metric => {
     let videoHTML = `
 	  <video controls height="400">
 	  <source src="videos/${videoPath}" type="video/mp4">
