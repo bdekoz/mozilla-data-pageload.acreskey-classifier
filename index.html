@@ -507,7 +507,7 @@ tr:hover {
 	// Create a timestamp label
 	const timestampLabel = document.createElement('div');
 	timestampLabel.className = 'timestamp';
-	timestampLabel.textContent = `${timestamp} sec`;
+	timestampLabel.textContent = `${timestamp} ms`;
 	timestampContainer.appendChild(timestampLabel);
 
 	let filmstripprefix = "filmstrip/";
@@ -516,7 +516,7 @@ tr:hover {
 	const firefoxImage = document.createElement('img');
 	ffisrc = filmstripData.firefox.filmstrip[timestamp];
 	firefoxImage.src = filmstripprefix.concat(ffisrc);
-	firefoxImage.alt = `Firefox Frame at ${timestamp} sec`;
+	firefoxImage.alt = `Firefox Frame at ${timestamp} ms`;
 	firefoxImage.className = 'filmstrip-image';
 	timestampContainer.appendChild(firefoxImage);
 
@@ -530,7 +530,7 @@ tr:hover {
 	const chromeImage = document.createElement('img');
 	cfisrc = filmstripData.chrome.filmstrip[timestamp];
 	chromeImage.src = filmstripprefix.concat(cfisrc);
-	chromeImage.alt = `Chrome Frame at ${timestamp} sec`;
+	chromeImage.alt = `Chrome Frame at ${timestamp} ms`;
 	chromeImage.className = 'filmstrip-image';
 	timestampContainer.appendChild(chromeImage);
 
