@@ -15,13 +15,19 @@ filename = Path(ifile);
 filenamebase = os.path.splitext(filename)[0]
 print("input file: ", ifile)
 
-# find duration of input video file
+# Find duration of input video file in milliseconds
 def video_duration(ivideo):
-    result = subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'default=noprint_wrappers=1:nokey=1', ivideo], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-    return float(result.stdout)
+    dur=0;
+    if os.path.exists(ivideo):
+        result = subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'default=noprint_wrappers=1:nokey=1', ivideo], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+        dur = float(result.stdout)
+    else:
+        dur = float(0)
+    return dur * 1000;
 
-dursec=video_duration(ifile)
-print("duration in seconds: ", dursec)
+
+durms=video_duration(ifile)
+print("duration in ms: ", durms)
 
 # serialiaztion dictionary for json
 filmstrip_dict = {}
@@ -43,7 +49,7 @@ def generate_video_filmstrip_partition_n(ivideo, totaln):
     cspace = ' '
     for i in range(totaln):
         print(i)
-        timecoden = (i/totaln) * dursec
+        timecoden = (i/totaln) * durms
         if timecoden < 60:
             thumbflag = "-ss 00:00:" + str(timecoden) + cspace + "-update -frames:v 1"
         else:
@@ -57,21 +63,23 @@ def generate_video_filmstrip_partition_n(ivideo, totaln):
         filmstrip_dict[str(i)] = ofname
 
 
-# intervaln is floating point of seconds or partial seconds (500 ms would be .5)
+# intervaln is integer of interval between frames in milliseconds (ms)
 def generate_video_filmstrip_interval(ivideo, intervaln):
     cspace = ' '
-    totaln = int(dursec / intervaln)
-    offset = intervaln;
+    totaln = int(durms / intervaln)
+    offset = 0;
     for i in range(totaln):
         print(i)
-        timecoden = offset + (intervaln * i);
+        timecodems = offset + (intervaln * i);
+        timecoden = float(timecodems / 1000);
         if timecoden < 60:
             thumbflag = "-ss 00:00:" + str(timecoden) + cspace + "-frames:v 1"
         else:
             timecodemin = int(timecoden/60)
             timecodesec = timecoden - timecodemin;
             thumbflag = "-ss 00:" + str(timecodemin) + ":" + str(timecodesec) + cspace + "-frames:v 1"
-        timecodestr = f"{timecoden:.2f}"
+        #timecodestr = f"{timecoden:.2f}"
+        timecodestr = f"{timecodems:05}"
         ofname = f"{filenamebase}_{timecodestr}.png"
         fcommand="ffmpeg -i " + ifile + cspace + thumbflag + cspace + ofname
         #print(str(timecoden) + cspace + fcommand)
@@ -85,13 +93,14 @@ def generate_video_filmstrip_interval(ivideo, intervaln):
 def serialize_data(ivideo, tdict, ofname):
     vdict = {}
     ivideoj = ivideo.replace(".mp4", "-video.json")
-    with open(ivideoj, 'r') as vj:
-        vdata_dict = json.load(vj)
-        vdict["video"] = vdata_dict
+    if os.path.exists(ivideoj):
+        with open(ivideoj, 'r') as vj:
+            vdata_dict = json.load(vj)
+            vdict["video"] = vdata_dict
     vdict["filmstrip"] = tdict
     with open(ofname, 'w') as f:
         json.dump(vdict, f, indent=2)
 
 #generate_video_filmstrip_partition_n(ifile, 12)
-generate_video_filmstrip_interval(ifile, 0.25)
+generate_video_filmstrip_interval(ifile, 100)
 serialize_data(ifile, filmstrip_dict, filenamebase + "-filmstrip.json")
