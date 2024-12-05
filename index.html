@@ -560,13 +560,16 @@ tr:hover {
 
   function displayVideos() {
     let platform = window.platformStatus;
+    const filteredData = window.data.filter(row => row.test === metric && row.platform === platform);
+    const metricData = filteredData[0];
+    const videoPath = metricData.video_side_by_side;
 
     window.metrics.forEach(metric => {
-      let videoHTML = `
-	  <video controls height="400">
-	  <source src="videos/${platform}-${metric}-side-by-side.mp4" type="video/mp4">
-	  </video>
-	`;
+    let videoHTML = `
+          <video controls height="400">
+          <source src="videos/${videoPath}" type="video/mp4">
+          </video>
+        `;
       document.getElementById(`${metric}-video`).innerHTML = videoHTML;
     });
   }
