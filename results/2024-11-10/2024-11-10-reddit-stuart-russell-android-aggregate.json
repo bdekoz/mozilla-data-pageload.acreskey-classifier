@@ -1,0 +1,1653 @@
+{
+  "test": "reddit-stuart-russell",
+  "platform": "android",
+  "date": "2024-11-10",
+  "video_side_by_side": "tmp/2024-11-10-android-reddit-stuart-russell-side-by-side.mp4",
+  "firefox": {
+    "filmstrip": {
+      "00000": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_00000.png",
+      "00100": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_00100.png",
+      "00200": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_00200.png",
+      "00300": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_00300.png",
+      "00400": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_00400.png",
+      "00500": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_00500.png",
+      "00600": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_00600.png",
+      "00700": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_00700.png",
+      "00800": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_00800.png",
+      "00900": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_00900.png",
+      "01000": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_01000.png",
+      "01100": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_01100.png",
+      "01200": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_01200.png",
+      "01300": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_01300.png",
+      "01400": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_01400.png",
+      "01500": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_01500.png",
+      "01600": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_01600.png",
+      "01700": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_01700.png",
+      "01800": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_01800.png",
+      "01900": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_01900.png",
+      "02000": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_02000.png",
+      "02100": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_02100.png",
+      "02200": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_02200.png",
+      "02300": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_02300.png",
+      "02400": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_02400.png",
+      "02500": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_02500.png",
+      "02600": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_02600.png",
+      "02700": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_02700.png",
+      "02800": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_02800.png",
+      "02900": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_02900.png",
+      "03000": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_03000.png",
+      "03100": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_03100.png",
+      "03200": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_03200.png",
+      "03300": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_03300.png",
+      "03400": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_03400.png",
+      "03500": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_03500.png",
+      "03600": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_03600.png",
+      "03700": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_03700.png",
+      "03800": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_03800.png",
+      "03900": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_03900.png",
+      "04000": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_04000.png",
+      "04100": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_04100.png",
+      "04200": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_04200.png",
+      "04300": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_04300.png",
+      "04400": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_04400.png",
+      "04500": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_04500.png",
+      "04600": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_04600.png",
+      "04700": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_04700.png",
+      "04800": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_04800.png",
+      "04900": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_04900.png",
+      "05000": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_05000.png",
+      "05100": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_05100.png",
+      "05200": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_05200.png",
+      "05300": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_05300.png",
+      "05400": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_05400.png",
+      "05500": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_05500.png",
+      "05600": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_05600.png",
+      "05700": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_05700.png",
+      "05800": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_05800.png",
+      "05900": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_05900.png",
+      "06000": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_06000.png",
+      "06100": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_06100.png",
+      "06200": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_06200.png",
+      "06300": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_06300.png",
+      "06400": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_06400.png",
+      "06500": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_06500.png",
+      "06600": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_06600.png",
+      "06700": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_06700.png",
+      "06800": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_06800.png",
+      "06900": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_06900.png",
+      "07000": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_07000.png",
+      "07100": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_07100.png",
+      "07200": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_07200.png",
+      "07300": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_07300.png",
+      "07400": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_07400.png",
+      "07500": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_07500.png",
+      "07600": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_07600.png",
+      "07700": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_07700.png",
+      "07800": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_07800.png",
+      "07900": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_07900.png",
+      "08000": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_08000.png",
+      "08100": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_08100.png",
+      "08200": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_08200.png",
+      "08300": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_08300.png",
+      "08400": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_08400.png",
+      "08500": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_08500.png",
+      "08600": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_08600.png",
+      "08700": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_08700.png",
+      "08800": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_08800.png",
+      "08900": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_08900.png",
+      "09000": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_09000.png",
+      "09100": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_09100.png",
+      "09200": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_09200.png",
+      "09300": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_09300.png",
+      "09400": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_09400.png",
+      "09500": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_09500.png",
+      "09600": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_09600.png",
+      "09700": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_09700.png",
+      "09800": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_09800.png",
+      "09900": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_09900.png",
+      "10000": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_10000.png",
+      "10100": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_10100.png",
+      "10200": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_10200.png",
+      "10300": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_10300.png",
+      "10400": "tmp/2024-11-10-android-reddit-stuart-russell-firefox_10400.png"
+    },
+    "metrics": {
+      "fcp": "471",
+      "largestContentfulPaintloadTime": "680",
+      "largestContentfulPaintrenderTime": "680",
+      "lcp_element": "\"\"https://preview.redd.it/stuart-russell-said-hinton-is-tidying-up-his-affairs-v0-8ci83h942qtd1.png?auto=webp&s=7ac93467d45e30e0ead14658c8b23c7f021a752b\"\"",
+      "redirectStart": "0",
+      "redirectEnd": "141",
+      "fetchStart": "145",
+      "domainLookupStart": "145",
+      "connectStart": "145",
+      "requestStart": "148",
+      "responseStart": "242",
+      "domInteractive": "497",
+      "domComplete": "2375",
+      "loadEventEnd": "2375",
+      "SpeedIndex": "1838",
+      "VisualComplete85": "1957",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "491.000000",
+          "percent": "43"
+        },
+        {
+          "timestamp": "591.000000",
+          "percent": "48"
+        },
+        {
+          "timestamp": "683.000000",
+          "percent": "53"
+        },
+        {
+          "timestamp": "750.000000",
+          "percent": "56"
+        },
+        {
+          "timestamp": "775.000000",
+          "percent": "57"
+        },
+        {
+          "timestamp": "800.000000",
+          "percent": "59"
+        },
+        {
+          "timestamp": "810.000000",
+          "percent": "59"
+        },
+        {
+          "timestamp": "820.000000",
+          "percent": "60"
+        },
+        {
+          "timestamp": "829.000000",
+          "percent": "60"
+        },
+        {
+          "timestamp": "843.000000",
+          "percent": "61"
+        },
+        {
+          "timestamp": "851.000000",
+          "percent": "61"
+        },
+        {
+          "timestamp": "860.000000",
+          "percent": "61"
+        },
+        {
+          "timestamp": "868.000000",
+          "percent": "62"
+        },
+        {
+          "timestamp": "883.000000",
+          "percent": "62"
+        },
+        {
+          "timestamp": "893.000000",
+          "percent": "63"
+        },
+        {
+          "timestamp": "901.000000",
+          "percent": "63"
+        },
+        {
+          "timestamp": "909.000000",
+          "percent": "63"
+        },
+        {
+          "timestamp": "918.000000",
+          "percent": "64"
+        },
+        {
+          "timestamp": "926.000000",
+          "percent": "64"
+        },
+        {
+          "timestamp": "935.000000",
+          "percent": "64"
+        },
+        {
+          "timestamp": "950.000000",
+          "percent": "65"
+        },
+        {
+          "timestamp": "959.000000",
+          "percent": "65"
+        },
+        {
+          "timestamp": "967.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "975.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "986.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "1000.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "1009.000000",
+          "percent": "68"
+        },
+        {
+          "timestamp": "1019.000000",
+          "percent": "68"
+        },
+        {
+          "timestamp": "1026.000000",
+          "percent": "68"
+        },
+        {
+          "timestamp": "1036.000000",
+          "percent": "69"
+        },
+        {
+          "timestamp": "1066.000000",
+          "percent": "70"
+        },
+        {
+          "timestamp": "1076.000000",
+          "percent": "70"
+        },
+        {
+          "timestamp": "1084.000000",
+          "percent": "71"
+        },
+        {
+          "timestamp": "1116.000000",
+          "percent": "72"
+        },
+        {
+          "timestamp": "1216.000000",
+          "percent": "77"
+        },
+        {
+          "timestamp": "1233.000000",
+          "percent": "77"
+        },
+        {
+          "timestamp": "1258.000000",
+          "percent": "78"
+        },
+        {
+          "timestamp": "1484.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "1492.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "1591.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "1625.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "1699.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1741.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1760.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1766.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1784.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "491.000000",
+          "percent": "57"
+        },
+        {
+          "timestamp": "591.000000",
+          "percent": "65"
+        },
+        {
+          "timestamp": "683.000000",
+          "percent": "72"
+        },
+        {
+          "timestamp": "750.000000",
+          "percent": "77"
+        },
+        {
+          "timestamp": "775.000000",
+          "percent": "78"
+        },
+        {
+          "timestamp": "800.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "810.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "820.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "829.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "843.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "851.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "860.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "868.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "883.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "893.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "901.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "909.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "918.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "926.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "935.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "950.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "959.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "967.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "975.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "986.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "1000.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "1009.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "1019.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "1026.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "1036.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "1066.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "1076.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "1084.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "1116.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "1216.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "1233.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "1258.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "1484.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1492.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1591.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1625.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1699.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1741.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1760.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1766.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1784.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "491.000000",
+          "percent": "4"
+        },
+        {
+          "timestamp": "591.000000",
+          "percent": "4"
+        },
+        {
+          "timestamp": "683.000000",
+          "percent": "4"
+        },
+        {
+          "timestamp": "750.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "775.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "800.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "810.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "820.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "829.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "843.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "851.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "860.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "868.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "883.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "893.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "901.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "909.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "918.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "926.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "935.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "950.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "959.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "967.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "975.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "986.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "1000.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "1009.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "1019.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "1026.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "1036.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "1066.000000",
+          "percent": "7"
+        },
+        {
+          "timestamp": "1076.000000",
+          "percent": "7"
+        },
+        {
+          "timestamp": "1084.000000",
+          "percent": "7"
+        },
+        {
+          "timestamp": "1116.000000",
+          "percent": "7"
+        },
+        {
+          "timestamp": "1216.000000",
+          "percent": "7"
+        },
+        {
+          "timestamp": "1233.000000",
+          "percent": "7"
+        },
+        {
+          "timestamp": "1258.000000",
+          "percent": "7"
+        },
+        {
+          "timestamp": "1484.000000",
+          "percent": "7"
+        },
+        {
+          "timestamp": "1492.000000",
+          "percent": "7"
+        },
+        {
+          "timestamp": "1591.000000",
+          "percent": "13"
+        },
+        {
+          "timestamp": "1625.000000",
+          "percent": "13"
+        },
+        {
+          "timestamp": "1699.000000",
+          "percent": "13"
+        },
+        {
+          "timestamp": "1741.000000",
+          "percent": "29"
+        },
+        {
+          "timestamp": "1760.000000",
+          "percent": "31"
+        },
+        {
+          "timestamp": "1766.000000",
+          "percent": "33"
+        },
+        {
+          "timestamp": "1784.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  },
+  "chrome": {
+    "filmstrip": {
+      "00000": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_00000.png",
+      "00100": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_00100.png",
+      "00200": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_00200.png",
+      "00300": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_00300.png",
+      "00400": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_00400.png",
+      "00500": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_00500.png",
+      "00600": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_00600.png",
+      "00700": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_00700.png",
+      "00800": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_00800.png",
+      "00900": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_00900.png",
+      "01000": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_01000.png",
+      "01100": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_01100.png",
+      "01200": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_01200.png",
+      "01300": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_01300.png",
+      "01400": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_01400.png",
+      "01500": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_01500.png",
+      "01600": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_01600.png",
+      "01700": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_01700.png",
+      "01800": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_01800.png",
+      "01900": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_01900.png",
+      "02000": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_02000.png",
+      "02100": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_02100.png",
+      "02200": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_02200.png",
+      "02300": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_02300.png",
+      "02400": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_02400.png",
+      "02500": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_02500.png",
+      "02600": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_02600.png",
+      "02700": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_02700.png",
+      "02800": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_02800.png",
+      "02900": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_02900.png",
+      "03000": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_03000.png",
+      "03100": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_03100.png",
+      "03200": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_03200.png",
+      "03300": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_03300.png",
+      "03400": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_03400.png",
+      "03500": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_03500.png",
+      "03600": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_03600.png",
+      "03700": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_03700.png",
+      "03800": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_03800.png",
+      "03900": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_03900.png",
+      "04000": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_04000.png",
+      "04100": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_04100.png",
+      "04200": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_04200.png",
+      "04300": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_04300.png",
+      "04400": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_04400.png",
+      "04500": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_04500.png",
+      "04600": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_04600.png",
+      "04700": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_04700.png",
+      "04800": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_04800.png",
+      "04900": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_04900.png",
+      "05000": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_05000.png",
+      "05100": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_05100.png",
+      "05200": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_05200.png",
+      "05300": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_05300.png",
+      "05400": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_05400.png",
+      "05500": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_05500.png",
+      "05600": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_05600.png",
+      "05700": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_05700.png",
+      "05800": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_05800.png",
+      "05900": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_05900.png",
+      "06000": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_06000.png",
+      "06100": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_06100.png",
+      "06200": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_06200.png",
+      "06300": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_06300.png",
+      "06400": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_06400.png",
+      "06500": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_06500.png",
+      "06600": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_06600.png",
+      "06700": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_06700.png",
+      "06800": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_06800.png",
+      "06900": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_06900.png",
+      "07000": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_07000.png",
+      "07100": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_07100.png",
+      "07200": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_07200.png",
+      "07300": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_07300.png",
+      "07400": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_07400.png",
+      "07500": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_07500.png",
+      "07600": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_07600.png",
+      "07700": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_07700.png",
+      "07800": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_07800.png",
+      "07900": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_07900.png",
+      "08000": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_08000.png",
+      "08100": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_08100.png",
+      "08200": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_08200.png",
+      "08300": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_08300.png",
+      "08400": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_08400.png",
+      "08500": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_08500.png",
+      "08600": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_08600.png",
+      "08700": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_08700.png",
+      "08800": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_08800.png",
+      "08900": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_08900.png",
+      "09000": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_09000.png",
+      "09100": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_09100.png",
+      "09200": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_09200.png",
+      "09300": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_09300.png",
+      "09400": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_09400.png",
+      "09500": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_09500.png",
+      "09600": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_09600.png",
+      "09700": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_09700.png",
+      "09800": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_09800.png",
+      "09900": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_09900.png",
+      "10000": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_10000.png",
+      "10100": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_10100.png",
+      "10200": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_10200.png",
+      "10300": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_10300.png",
+      "10400": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_10400.png",
+      "10500": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_10500.png",
+      "10600": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_10600.png",
+      "10700": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_10700.png",
+      "10800": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_10800.png",
+      "10900": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_10900.png",
+      "11000": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_11000.png",
+      "11100": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_11100.png",
+      "11200": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_11200.png",
+      "11300": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_11300.png",
+      "11400": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_11400.png",
+      "11500": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_11500.png",
+      "11600": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_11600.png",
+      "11700": "tmp/2024-11-10-android-reddit-stuart-russell-chrome_11700.png"
+    },
+    "metrics": {
+      "fcp": "595",
+      "largestContentfulPaintloadTime": "1364",
+      "largestContentfulPaintrenderTime": "1364",
+      "lcp_element": "\"\"https://preview.redd.it/stuart-russell-said-hinton-is-tidying-up-his-affairs-v0-8ci83h942qtd1.png?auto=webp&s=7ac93467d45e30e0ead14658c8b23c7f021a752b\"\"",
+      "redirectStart": "4",
+      "redirectEnd": "139",
+      "fetchStart": "139",
+      "domainLookupStart": "139",
+      "connectStart": "139",
+      "requestStart": "145",
+      "responseStart": "227",
+      "domInteractive": "493",
+      "domComplete": "2737",
+      "loadEventEnd": "2738",
+      "SpeedIndex": "1846",
+      "VisualComplete85": "1938",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "570.000000",
+          "percent": "44"
+        },
+        {
+          "timestamp": "587.000000",
+          "percent": "45"
+        },
+        {
+          "timestamp": "605.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "622.000000",
+          "percent": "47"
+        },
+        {
+          "timestamp": "638.000000",
+          "percent": "47"
+        },
+        {
+          "timestamp": "654.000000",
+          "percent": "48"
+        },
+        {
+          "timestamp": "673.000000",
+          "percent": "49"
+        },
+        {
+          "timestamp": "688.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "706.000000",
+          "percent": "51"
+        },
+        {
+          "timestamp": "721.000000",
+          "percent": "51"
+        },
+        {
+          "timestamp": "738.000000",
+          "percent": "52"
+        },
+        {
+          "timestamp": "756.000000",
+          "percent": "53"
+        },
+        {
+          "timestamp": "773.000000",
+          "percent": "54"
+        },
+        {
+          "timestamp": "791.000000",
+          "percent": "55"
+        },
+        {
+          "timestamp": "805.000000",
+          "percent": "55"
+        },
+        {
+          "timestamp": "824.000000",
+          "percent": "56"
+        },
+        {
+          "timestamp": "841.000000",
+          "percent": "57"
+        },
+        {
+          "timestamp": "856.000000",
+          "percent": "58"
+        },
+        {
+          "timestamp": "872.000000",
+          "percent": "59"
+        },
+        {
+          "timestamp": "889.000000",
+          "percent": "59"
+        },
+        {
+          "timestamp": "905.000000",
+          "percent": "60"
+        },
+        {
+          "timestamp": "922.000000",
+          "percent": "61"
+        },
+        {
+          "timestamp": "939.000000",
+          "percent": "62"
+        },
+        {
+          "timestamp": "956.000000",
+          "percent": "63"
+        },
+        {
+          "timestamp": "972.000000",
+          "percent": "63"
+        },
+        {
+          "timestamp": "988.000000",
+          "percent": "64"
+        },
+        {
+          "timestamp": "1005.000000",
+          "percent": "65"
+        },
+        {
+          "timestamp": "1021.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "1038.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "1057.000000",
+          "percent": "68"
+        },
+        {
+          "timestamp": "1072.000000",
+          "percent": "68"
+        },
+        {
+          "timestamp": "1088.000000",
+          "percent": "69"
+        },
+        {
+          "timestamp": "1104.000000",
+          "percent": "70"
+        },
+        {
+          "timestamp": "1122.000000",
+          "percent": "71"
+        },
+        {
+          "timestamp": "1188.000000",
+          "percent": "74"
+        },
+        {
+          "timestamp": "1254.000000",
+          "percent": "77"
+        },
+        {
+          "timestamp": "1272.000000",
+          "percent": "78"
+        },
+        {
+          "timestamp": "1289.000000",
+          "percent": "78"
+        },
+        {
+          "timestamp": "1305.000000",
+          "percent": "79"
+        },
+        {
+          "timestamp": "1322.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "1338.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "1354.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "1372.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "1388.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "1406.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "1421.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "1438.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "1454.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "1471.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "1487.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "1505.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "1522.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "1540.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "1557.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "1655.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "1671.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "1704.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "1820.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1838.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1854.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1871.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1887.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1905.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1921.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1940.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1958.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "570.000000",
+          "percent": "47"
+        },
+        {
+          "timestamp": "587.000000",
+          "percent": "48"
+        },
+        {
+          "timestamp": "605.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "622.000000",
+          "percent": "51"
+        },
+        {
+          "timestamp": "638.000000",
+          "percent": "52"
+        },
+        {
+          "timestamp": "654.000000",
+          "percent": "53"
+        },
+        {
+          "timestamp": "673.000000",
+          "percent": "54"
+        },
+        {
+          "timestamp": "688.000000",
+          "percent": "55"
+        },
+        {
+          "timestamp": "706.000000",
+          "percent": "56"
+        },
+        {
+          "timestamp": "721.000000",
+          "percent": "57"
+        },
+        {
+          "timestamp": "738.000000",
+          "percent": "58"
+        },
+        {
+          "timestamp": "756.000000",
+          "percent": "60"
+        },
+        {
+          "timestamp": "773.000000",
+          "percent": "61"
+        },
+        {
+          "timestamp": "791.000000",
+          "percent": "62"
+        },
+        {
+          "timestamp": "805.000000",
+          "percent": "63"
+        },
+        {
+          "timestamp": "824.000000",
+          "percent": "64"
+        },
+        {
+          "timestamp": "841.000000",
+          "percent": "65"
+        },
+        {
+          "timestamp": "856.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "872.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "889.000000",
+          "percent": "68"
+        },
+        {
+          "timestamp": "905.000000",
+          "percent": "69"
+        },
+        {
+          "timestamp": "922.000000",
+          "percent": "70"
+        },
+        {
+          "timestamp": "939.000000",
+          "percent": "71"
+        },
+        {
+          "timestamp": "956.000000",
+          "percent": "72"
+        },
+        {
+          "timestamp": "972.000000",
+          "percent": "73"
+        },
+        {
+          "timestamp": "988.000000",
+          "percent": "74"
+        },
+        {
+          "timestamp": "1005.000000",
+          "percent": "75"
+        },
+        {
+          "timestamp": "1021.000000",
+          "percent": "76"
+        },
+        {
+          "timestamp": "1038.000000",
+          "percent": "77"
+        },
+        {
+          "timestamp": "1057.000000",
+          "percent": "78"
+        },
+        {
+          "timestamp": "1072.000000",
+          "percent": "79"
+        },
+        {
+          "timestamp": "1088.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "1104.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "1122.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "1188.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "1254.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "1272.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "1289.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "1305.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "1322.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "1338.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "1354.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "1372.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "1388.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "1406.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "1421.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "1438.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "1454.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "1471.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "1487.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "1505.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "1522.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1540.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1557.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1655.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1671.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1704.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1820.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1838.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1854.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1871.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1887.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1905.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1921.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1940.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1958.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "570.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "587.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "605.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "622.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "638.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "654.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "673.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "688.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "706.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "721.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "738.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "756.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "773.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "791.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "805.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "824.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "841.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "856.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "872.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "889.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "905.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "922.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "939.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "956.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "972.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "988.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "1005.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "1021.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "1038.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "1057.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "1072.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "1088.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "1104.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "1122.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "1188.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "1254.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "1272.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "1289.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "1305.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "1322.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "1338.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "1354.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "1372.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "1388.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "1406.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "1421.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "1438.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "1454.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "1471.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "1487.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "1505.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "1522.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "1540.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "1557.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "1655.000000",
+          "percent": "10"
+        },
+        {
+          "timestamp": "1671.000000",
+          "percent": "10"
+        },
+        {
+          "timestamp": "1704.000000",
+          "percent": "10"
+        },
+        {
+          "timestamp": "1820.000000",
+          "percent": "14"
+        },
+        {
+          "timestamp": "1838.000000",
+          "percent": "16"
+        },
+        {
+          "timestamp": "1854.000000",
+          "percent": "18"
+        },
+        {
+          "timestamp": "1871.000000",
+          "percent": "27"
+        },
+        {
+          "timestamp": "1887.000000",
+          "percent": "28"
+        },
+        {
+          "timestamp": "1905.000000",
+          "percent": "31"
+        },
+        {
+          "timestamp": "1921.000000",
+          "percent": "37"
+        },
+        {
+          "timestamp": "1940.000000",
+          "percent": "38"
+        },
+        {
+          "timestamp": "1958.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,633 @@
+{
+  "test": "blog.playstation",
+  "platform": "android",
+  "date": "2024-11-10",
+  "video_side_by_side": "tmp/2024-11-10-android-blog.playstation-side-by-side.mp4",
+  "firefox": {
+    "filmstrip": {
+      "00000": "tmp/2024-11-10-android-blog.playstation-firefox_00000.png",
+      "00100": "tmp/2024-11-10-android-blog.playstation-firefox_00100.png",
+      "00200": "tmp/2024-11-10-android-blog.playstation-firefox_00200.png",
+      "00300": "tmp/2024-11-10-android-blog.playstation-firefox_00300.png",
+      "00400": "tmp/2024-11-10-android-blog.playstation-firefox_00400.png",
+      "00500": "tmp/2024-11-10-android-blog.playstation-firefox_00500.png",
+      "00600": "tmp/2024-11-10-android-blog.playstation-firefox_00600.png",
+      "00700": "tmp/2024-11-10-android-blog.playstation-firefox_00700.png",
+      "00800": "tmp/2024-11-10-android-blog.playstation-firefox_00800.png",
+      "00900": "tmp/2024-11-10-android-blog.playstation-firefox_00900.png",
+      "01000": "tmp/2024-11-10-android-blog.playstation-firefox_01000.png",
+      "01100": "tmp/2024-11-10-android-blog.playstation-firefox_01100.png",
+      "01200": "tmp/2024-11-10-android-blog.playstation-firefox_01200.png",
+      "01300": "tmp/2024-11-10-android-blog.playstation-firefox_01300.png",
+      "01400": "tmp/2024-11-10-android-blog.playstation-firefox_01400.png",
+      "01500": "tmp/2024-11-10-android-blog.playstation-firefox_01500.png",
+      "01600": "tmp/2024-11-10-android-blog.playstation-firefox_01600.png",
+      "01700": "tmp/2024-11-10-android-blog.playstation-firefox_01700.png",
+      "01800": "tmp/2024-11-10-android-blog.playstation-firefox_01800.png",
+      "01900": "tmp/2024-11-10-android-blog.playstation-firefox_01900.png",
+      "02000": "tmp/2024-11-10-android-blog.playstation-firefox_02000.png",
+      "02100": "tmp/2024-11-10-android-blog.playstation-firefox_02100.png",
+      "02200": "tmp/2024-11-10-android-blog.playstation-firefox_02200.png",
+      "02300": "tmp/2024-11-10-android-blog.playstation-firefox_02300.png",
+      "02400": "tmp/2024-11-10-android-blog.playstation-firefox_02400.png",
+      "02500": "tmp/2024-11-10-android-blog.playstation-firefox_02500.png",
+      "02600": "tmp/2024-11-10-android-blog.playstation-firefox_02600.png",
+      "02700": "tmp/2024-11-10-android-blog.playstation-firefox_02700.png",
+      "02800": "tmp/2024-11-10-android-blog.playstation-firefox_02800.png",
+      "02900": "tmp/2024-11-10-android-blog.playstation-firefox_02900.png",
+      "03000": "tmp/2024-11-10-android-blog.playstation-firefox_03000.png",
+      "03100": "tmp/2024-11-10-android-blog.playstation-firefox_03100.png",
+      "03200": "tmp/2024-11-10-android-blog.playstation-firefox_03200.png",
+      "03300": "tmp/2024-11-10-android-blog.playstation-firefox_03300.png",
+      "03400": "tmp/2024-11-10-android-blog.playstation-firefox_03400.png",
+      "03500": "tmp/2024-11-10-android-blog.playstation-firefox_03500.png",
+      "03600": "tmp/2024-11-10-android-blog.playstation-firefox_03600.png",
+      "03700": "tmp/2024-11-10-android-blog.playstation-firefox_03700.png",
+      "03800": "tmp/2024-11-10-android-blog.playstation-firefox_03800.png",
+      "03900": "tmp/2024-11-10-android-blog.playstation-firefox_03900.png",
+      "04000": "tmp/2024-11-10-android-blog.playstation-firefox_04000.png",
+      "04100": "tmp/2024-11-10-android-blog.playstation-firefox_04100.png",
+      "04200": "tmp/2024-11-10-android-blog.playstation-firefox_04200.png",
+      "04300": "tmp/2024-11-10-android-blog.playstation-firefox_04300.png",
+      "04400": "tmp/2024-11-10-android-blog.playstation-firefox_04400.png",
+      "04500": "tmp/2024-11-10-android-blog.playstation-firefox_04500.png",
+      "04600": "tmp/2024-11-10-android-blog.playstation-firefox_04600.png",
+      "04700": "tmp/2024-11-10-android-blog.playstation-firefox_04700.png",
+      "04800": "tmp/2024-11-10-android-blog.playstation-firefox_04800.png",
+      "04900": "tmp/2024-11-10-android-blog.playstation-firefox_04900.png",
+      "05000": "tmp/2024-11-10-android-blog.playstation-firefox_05000.png",
+      "05100": "tmp/2024-11-10-android-blog.playstation-firefox_05100.png",
+      "05200": "tmp/2024-11-10-android-blog.playstation-firefox_05200.png"
+    },
+    "metrics": {
+      "fcp": "329",
+      "largestContentfulPaintloadTime": "442",
+      "largestContentfulPaintrenderTime": "460",
+      "lcp_element": "\"\"https://blog.playstation.com/tachyon/2024/11/cd841e7da1a555d16c0b87855572793c79d83e11.jpg?resize=1088%2C612&crop_strategy=smart&zoom=1\"\"",
+      "redirectStart": "0",
+      "redirectEnd": "0",
+      "fetchStart": "0",
+      "domainLookupStart": "21",
+      "connectStart": "71",
+      "requestStart": "147",
+      "responseStart": "185",
+      "domInteractive": "481",
+      "domComplete": "1018",
+      "loadEventEnd": "1023",
+      "SpeedIndex": "516",
+      "VisualComplete85": "621",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "378.000000",
+          "percent": "74"
+        },
+        {
+          "timestamp": "386.000000",
+          "percent": "75"
+        },
+        {
+          "timestamp": "396.000000",
+          "percent": "76"
+        },
+        {
+          "timestamp": "436.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "461.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "561.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "578.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "586.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "612.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "627.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "652.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "719.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1004.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1012.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1027.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1037.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1070.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1086.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1095.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "378.000000",
+          "percent": "71"
+        },
+        {
+          "timestamp": "386.000000",
+          "percent": "71"
+        },
+        {
+          "timestamp": "396.000000",
+          "percent": "72"
+        },
+        {
+          "timestamp": "436.000000",
+          "percent": "79"
+        },
+        {
+          "timestamp": "461.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "561.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "578.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "586.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "612.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "627.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "652.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "719.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1004.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1012.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1027.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1037.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1070.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1086.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1095.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "378.000000",
+          "percent": "27"
+        },
+        {
+          "timestamp": "386.000000",
+          "percent": "26"
+        },
+        {
+          "timestamp": "396.000000",
+          "percent": "26"
+        },
+        {
+          "timestamp": "436.000000",
+          "percent": "25"
+        },
+        {
+          "timestamp": "461.000000",
+          "percent": "60"
+        },
+        {
+          "timestamp": "561.000000",
+          "percent": "63"
+        },
+        {
+          "timestamp": "578.000000",
+          "percent": "63"
+        },
+        {
+          "timestamp": "586.000000",
+          "percent": "72"
+        },
+        {
+          "timestamp": "612.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "627.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "652.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "719.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1004.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1012.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1027.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1037.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1070.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1086.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1095.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  },
+  "chrome": {
+    "filmstrip": {
+      "00000": "tmp/2024-11-10-android-blog.playstation-chrome_00000.png",
+      "00100": "tmp/2024-11-10-android-blog.playstation-chrome_00100.png",
+      "00200": "tmp/2024-11-10-android-blog.playstation-chrome_00200.png",
+      "00300": "tmp/2024-11-10-android-blog.playstation-chrome_00300.png",
+      "00400": "tmp/2024-11-10-android-blog.playstation-chrome_00400.png",
+      "00500": "tmp/2024-11-10-android-blog.playstation-chrome_00500.png",
+      "00600": "tmp/2024-11-10-android-blog.playstation-chrome_00600.png",
+      "00700": "tmp/2024-11-10-android-blog.playstation-chrome_00700.png",
+      "00800": "tmp/2024-11-10-android-blog.playstation-chrome_00800.png",
+      "00900": "tmp/2024-11-10-android-blog.playstation-chrome_00900.png",
+      "01000": "tmp/2024-11-10-android-blog.playstation-chrome_01000.png",
+      "01100": "tmp/2024-11-10-android-blog.playstation-chrome_01100.png",
+      "01200": "tmp/2024-11-10-android-blog.playstation-chrome_01200.png",
+      "01300": "tmp/2024-11-10-android-blog.playstation-chrome_01300.png",
+      "01400": "tmp/2024-11-10-android-blog.playstation-chrome_01400.png",
+      "01500": "tmp/2024-11-10-android-blog.playstation-chrome_01500.png",
+      "01600": "tmp/2024-11-10-android-blog.playstation-chrome_01600.png",
+      "01700": "tmp/2024-11-10-android-blog.playstation-chrome_01700.png",
+      "01800": "tmp/2024-11-10-android-blog.playstation-chrome_01800.png",
+      "01900": "tmp/2024-11-10-android-blog.playstation-chrome_01900.png",
+      "02000": "tmp/2024-11-10-android-blog.playstation-chrome_02000.png",
+      "02100": "tmp/2024-11-10-android-blog.playstation-chrome_02100.png",
+      "02200": "tmp/2024-11-10-android-blog.playstation-chrome_02200.png",
+      "02300": "tmp/2024-11-10-android-blog.playstation-chrome_02300.png",
+      "02400": "tmp/2024-11-10-android-blog.playstation-chrome_02400.png",
+      "02500": "tmp/2024-11-10-android-blog.playstation-chrome_02500.png",
+      "02600": "tmp/2024-11-10-android-blog.playstation-chrome_02600.png",
+      "02700": "tmp/2024-11-10-android-blog.playstation-chrome_02700.png",
+      "02800": "tmp/2024-11-10-android-blog.playstation-chrome_02800.png",
+      "02900": "tmp/2024-11-10-android-blog.playstation-chrome_02900.png",
+      "03000": "tmp/2024-11-10-android-blog.playstation-chrome_03000.png",
+      "03100": "tmp/2024-11-10-android-blog.playstation-chrome_03100.png",
+      "03200": "tmp/2024-11-10-android-blog.playstation-chrome_03200.png",
+      "03300": "tmp/2024-11-10-android-blog.playstation-chrome_03300.png",
+      "03400": "tmp/2024-11-10-android-blog.playstation-chrome_03400.png",
+      "03500": "tmp/2024-11-10-android-blog.playstation-chrome_03500.png",
+      "03600": "tmp/2024-11-10-android-blog.playstation-chrome_03600.png",
+      "03700": "tmp/2024-11-10-android-blog.playstation-chrome_03700.png",
+      "03800": "tmp/2024-11-10-android-blog.playstation-chrome_03800.png",
+      "03900": "tmp/2024-11-10-android-blog.playstation-chrome_03900.png",
+      "04000": "tmp/2024-11-10-android-blog.playstation-chrome_04000.png",
+      "04100": "tmp/2024-11-10-android-blog.playstation-chrome_04100.png",
+      "04200": "tmp/2024-11-10-android-blog.playstation-chrome_04200.png",
+      "04300": "tmp/2024-11-10-android-blog.playstation-chrome_04300.png",
+      "04400": "tmp/2024-11-10-android-blog.playstation-chrome_04400.png",
+      "04500": "tmp/2024-11-10-android-blog.playstation-chrome_04500.png",
+      "04600": "tmp/2024-11-10-android-blog.playstation-chrome_04600.png",
+      "04700": "tmp/2024-11-10-android-blog.playstation-chrome_04700.png",
+      "04800": "tmp/2024-11-10-android-blog.playstation-chrome_04800.png",
+      "04900": "tmp/2024-11-10-android-blog.playstation-chrome_04900.png"
+    },
+    "metrics": {
+      "fcp": "394",
+      "largestContentfulPaintloadTime": "302",
+      "largestContentfulPaintrenderTime": "394",
+      "lcp_element": "\"\"https://blog.playstation.com/tachyon/2024/11/cd841e7da1a555d16c0b87855572793c79d83e11.jpg?resize=1088%2C612&crop_strategy=smart&zoom=1\"\"",
+      "redirectStart": "0",
+      "redirectEnd": "0",
+      "fetchStart": "4",
+      "domainLookupStart": "12",
+      "connectStart": "57",
+      "requestStart": "126",
+      "responseStart": "164",
+      "domInteractive": "505",
+      "domComplete": "1026",
+      "loadEventEnd": "1030",
+      "SpeedIndex": "414",
+      "VisualComplete85": "479",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "333.000000",
+          "percent": "79"
+        },
+        {
+          "timestamp": "350.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "367.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "384.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "433.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "466.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "484.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "502.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "538.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "588.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "605.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "622.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "640.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "656.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "673.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "691.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "706.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "738.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "333.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "350.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "367.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "384.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "433.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "466.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "484.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "502.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "538.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "588.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "605.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "622.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "640.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "656.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "673.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "691.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "706.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "738.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "333.000000",
+          "percent": "26"
+        },
+        {
+          "timestamp": "350.000000",
+          "percent": "71"
+        },
+        {
+          "timestamp": "367.000000",
+          "percent": "71"
+        },
+        {
+          "timestamp": "384.000000",
+          "percent": "71"
+        },
+        {
+          "timestamp": "433.000000",
+          "percent": "69"
+        },
+        {
+          "timestamp": "466.000000",
+          "percent": "69"
+        },
+        {
+          "timestamp": "484.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "502.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "538.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "588.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "605.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "622.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "640.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "656.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "673.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "691.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "706.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "738.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  }
+}

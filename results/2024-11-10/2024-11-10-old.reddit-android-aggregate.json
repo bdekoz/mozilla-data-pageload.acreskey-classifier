@@ -1,0 +1,660 @@
+{
+  "test": "old.reddit",
+  "platform": "android",
+  "date": "2024-11-10",
+  "video_side_by_side": "tmp/2024-11-10-android-old.reddit-side-by-side.mp4",
+  "firefox": {
+    "filmstrip": {
+      "00000": "tmp/2024-11-10-android-old.reddit-firefox_00000.png",
+      "00100": "tmp/2024-11-10-android-old.reddit-firefox_00100.png",
+      "00200": "tmp/2024-11-10-android-old.reddit-firefox_00200.png",
+      "00300": "tmp/2024-11-10-android-old.reddit-firefox_00300.png",
+      "00400": "tmp/2024-11-10-android-old.reddit-firefox_00400.png",
+      "00500": "tmp/2024-11-10-android-old.reddit-firefox_00500.png",
+      "00600": "tmp/2024-11-10-android-old.reddit-firefox_00600.png",
+      "00700": "tmp/2024-11-10-android-old.reddit-firefox_00700.png",
+      "00800": "tmp/2024-11-10-android-old.reddit-firefox_00800.png",
+      "00900": "tmp/2024-11-10-android-old.reddit-firefox_00900.png",
+      "01000": "tmp/2024-11-10-android-old.reddit-firefox_01000.png",
+      "01100": "tmp/2024-11-10-android-old.reddit-firefox_01100.png",
+      "01200": "tmp/2024-11-10-android-old.reddit-firefox_01200.png",
+      "01300": "tmp/2024-11-10-android-old.reddit-firefox_01300.png",
+      "01400": "tmp/2024-11-10-android-old.reddit-firefox_01400.png",
+      "01500": "tmp/2024-11-10-android-old.reddit-firefox_01500.png",
+      "01600": "tmp/2024-11-10-android-old.reddit-firefox_01600.png",
+      "01700": "tmp/2024-11-10-android-old.reddit-firefox_01700.png",
+      "01800": "tmp/2024-11-10-android-old.reddit-firefox_01800.png",
+      "01900": "tmp/2024-11-10-android-old.reddit-firefox_01900.png",
+      "02000": "tmp/2024-11-10-android-old.reddit-firefox_02000.png",
+      "02100": "tmp/2024-11-10-android-old.reddit-firefox_02100.png",
+      "02200": "tmp/2024-11-10-android-old.reddit-firefox_02200.png",
+      "02300": "tmp/2024-11-10-android-old.reddit-firefox_02300.png",
+      "02400": "tmp/2024-11-10-android-old.reddit-firefox_02400.png",
+      "02500": "tmp/2024-11-10-android-old.reddit-firefox_02500.png",
+      "02600": "tmp/2024-11-10-android-old.reddit-firefox_02600.png",
+      "02700": "tmp/2024-11-10-android-old.reddit-firefox_02700.png",
+      "02800": "tmp/2024-11-10-android-old.reddit-firefox_02800.png",
+      "02900": "tmp/2024-11-10-android-old.reddit-firefox_02900.png",
+      "03000": "tmp/2024-11-10-android-old.reddit-firefox_03000.png",
+      "03100": "tmp/2024-11-10-android-old.reddit-firefox_03100.png",
+      "03200": "tmp/2024-11-10-android-old.reddit-firefox_03200.png",
+      "03300": "tmp/2024-11-10-android-old.reddit-firefox_03300.png",
+      "03400": "tmp/2024-11-10-android-old.reddit-firefox_03400.png",
+      "03500": "tmp/2024-11-10-android-old.reddit-firefox_03500.png",
+      "03600": "tmp/2024-11-10-android-old.reddit-firefox_03600.png",
+      "03700": "tmp/2024-11-10-android-old.reddit-firefox_03700.png",
+      "03800": "tmp/2024-11-10-android-old.reddit-firefox_03800.png",
+      "03900": "tmp/2024-11-10-android-old.reddit-firefox_03900.png",
+      "04000": "tmp/2024-11-10-android-old.reddit-firefox_04000.png",
+      "04100": "tmp/2024-11-10-android-old.reddit-firefox_04100.png",
+      "04200": "tmp/2024-11-10-android-old.reddit-firefox_04200.png",
+      "04300": "tmp/2024-11-10-android-old.reddit-firefox_04300.png",
+      "04400": "tmp/2024-11-10-android-old.reddit-firefox_04400.png",
+      "04500": "tmp/2024-11-10-android-old.reddit-firefox_04500.png",
+      "04600": "tmp/2024-11-10-android-old.reddit-firefox_04600.png",
+      "04700": "tmp/2024-11-10-android-old.reddit-firefox_04700.png",
+      "04800": "tmp/2024-11-10-android-old.reddit-firefox_04800.png",
+      "04900": "tmp/2024-11-10-android-old.reddit-firefox_04900.png",
+      "05000": "tmp/2024-11-10-android-old.reddit-firefox_05000.png",
+      "05100": "tmp/2024-11-10-android-old.reddit-firefox_05100.png",
+      "05200": "tmp/2024-11-10-android-old.reddit-firefox_05200.png",
+      "05300": "tmp/2024-11-10-android-old.reddit-firefox_05300.png",
+      "05400": "tmp/2024-11-10-android-old.reddit-firefox_05400.png",
+      "05500": "tmp/2024-11-10-android-old.reddit-firefox_05500.png",
+      "05600": "tmp/2024-11-10-android-old.reddit-firefox_05600.png",
+      "05700": "tmp/2024-11-10-android-old.reddit-firefox_05700.png",
+      "05800": "tmp/2024-11-10-android-old.reddit-firefox_05800.png",
+      "05900": "tmp/2024-11-10-android-old.reddit-firefox_05900.png",
+      "06000": "tmp/2024-11-10-android-old.reddit-firefox_06000.png",
+      "06100": "tmp/2024-11-10-android-old.reddit-firefox_06100.png",
+      "06200": "tmp/2024-11-10-android-old.reddit-firefox_06200.png",
+      "06300": "tmp/2024-11-10-android-old.reddit-firefox_06300.png",
+      "06400": "tmp/2024-11-10-android-old.reddit-firefox_06400.png",
+      "06500": "tmp/2024-11-10-android-old.reddit-firefox_06500.png",
+      "06600": "tmp/2024-11-10-android-old.reddit-firefox_06600.png",
+      "06700": "tmp/2024-11-10-android-old.reddit-firefox_06700.png",
+      "06800": "tmp/2024-11-10-android-old.reddit-firefox_06800.png",
+      "06900": "tmp/2024-11-10-android-old.reddit-firefox_06900.png",
+      "07000": "tmp/2024-11-10-android-old.reddit-firefox_07000.png",
+      "07100": "tmp/2024-11-10-android-old.reddit-firefox_07100.png",
+      "07200": "tmp/2024-11-10-android-old.reddit-firefox_07200.png",
+      "07300": "tmp/2024-11-10-android-old.reddit-firefox_07300.png",
+      "07400": "tmp/2024-11-10-android-old.reddit-firefox_07400.png",
+      "07500": "tmp/2024-11-10-android-old.reddit-firefox_07500.png",
+      "07600": "tmp/2024-11-10-android-old.reddit-firefox_07600.png",
+      "07700": "tmp/2024-11-10-android-old.reddit-firefox_07700.png",
+      "07800": "tmp/2024-11-10-android-old.reddit-firefox_07800.png",
+      "07900": "tmp/2024-11-10-android-old.reddit-firefox_07900.png",
+      "08000": "tmp/2024-11-10-android-old.reddit-firefox_08000.png",
+      "08100": "tmp/2024-11-10-android-old.reddit-firefox_08100.png",
+      "08200": "tmp/2024-11-10-android-old.reddit-firefox_08200.png",
+      "08300": "tmp/2024-11-10-android-old.reddit-firefox_08300.png",
+      "08400": "tmp/2024-11-10-android-old.reddit-firefox_08400.png",
+      "08500": "tmp/2024-11-10-android-old.reddit-firefox_08500.png",
+      "08600": "tmp/2024-11-10-android-old.reddit-firefox_08600.png",
+      "08700": "tmp/2024-11-10-android-old.reddit-firefox_08700.png",
+      "08800": "tmp/2024-11-10-android-old.reddit-firefox_08800.png",
+      "08900": "tmp/2024-11-10-android-old.reddit-firefox_08900.png",
+      "09000": "tmp/2024-11-10-android-old.reddit-firefox_09000.png",
+      "09100": "tmp/2024-11-10-android-old.reddit-firefox_09100.png",
+      "09200": "tmp/2024-11-10-android-old.reddit-firefox_09200.png",
+      "09300": "tmp/2024-11-10-android-old.reddit-firefox_09300.png",
+      "09400": "tmp/2024-11-10-android-old.reddit-firefox_09400.png",
+      "09500": "tmp/2024-11-10-android-old.reddit-firefox_09500.png",
+      "09600": "tmp/2024-11-10-android-old.reddit-firefox_09600.png",
+      "09700": "tmp/2024-11-10-android-old.reddit-firefox_09700.png",
+      "09800": "tmp/2024-11-10-android-old.reddit-firefox_09800.png",
+      "09900": "tmp/2024-11-10-android-old.reddit-firefox_09900.png",
+      "10000": "tmp/2024-11-10-android-old.reddit-firefox_10000.png",
+      "10100": "tmp/2024-11-10-android-old.reddit-firefox_10100.png",
+      "10200": "tmp/2024-11-10-android-old.reddit-firefox_10200.png",
+      "10300": "tmp/2024-11-10-android-old.reddit-firefox_10300.png",
+      "10400": "tmp/2024-11-10-android-old.reddit-firefox_10400.png",
+      "10500": "tmp/2024-11-10-android-old.reddit-firefox_10500.png",
+      "10600": "tmp/2024-11-10-android-old.reddit-firefox_10600.png",
+      "10700": "tmp/2024-11-10-android-old.reddit-firefox_10700.png",
+      "10800": "tmp/2024-11-10-android-old.reddit-firefox_10800.png",
+      "10900": "tmp/2024-11-10-android-old.reddit-firefox_10900.png",
+      "11000": "tmp/2024-11-10-android-old.reddit-firefox_11000.png",
+      "11100": "tmp/2024-11-10-android-old.reddit-firefox_11100.png",
+      "11200": "tmp/2024-11-10-android-old.reddit-firefox_11200.png",
+      "11300": "tmp/2024-11-10-android-old.reddit-firefox_11300.png"
+    },
+    "metrics": {
+      "fcp": "1772",
+      "largestContentfulPaintloadTime": "1955",
+      "largestContentfulPaintrenderTime": "1955",
+      "lcp_element": "\"\"https://reddit-image.s3.amazonaws.com/2-1940Iqnz66qZ4VQ_8xf2RhZkvMeOkaK2FTSSJ-3Vk.jpg\"\"",
+      "redirectStart": "0",
+      "redirectEnd": "0",
+      "fetchStart": "0",
+      "domainLookupStart": "18",
+      "connectStart": "58",
+      "requestStart": "124",
+      "responseStart": "1200",
+      "domInteractive": "1681",
+      "domComplete": "2933",
+      "loadEventEnd": "2944",
+      "SpeedIndex": "1880",
+      "VisualComplete85": "1976",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "1786.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "1794.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "1860.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "1877.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "1952.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1986.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1995.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2005.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2020.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2028.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2044.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2053.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2069.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2078.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2119.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2152.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2306.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2321.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2439.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2454.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2470.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2481.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2494.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "1786.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "1794.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "1860.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1877.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1952.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1986.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1995.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2005.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2020.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2028.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2044.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2053.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2069.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2078.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2119.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2152.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2306.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2321.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2439.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2454.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2470.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2481.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2494.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "1786.000000",
+          "percent": "55"
+        },
+        {
+          "timestamp": "1794.000000",
+          "percent": "55"
+        },
+        {
+          "timestamp": "1860.000000",
+          "percent": "55"
+        },
+        {
+          "timestamp": "1877.000000",
+          "percent": "55"
+        },
+        {
+          "timestamp": "1952.000000",
+          "percent": "55"
+        },
+        {
+          "timestamp": "1986.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1995.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2005.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2020.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2028.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2044.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2053.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2069.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2078.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2119.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2152.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2306.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2321.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2439.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2454.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2470.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2481.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2494.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  },
+  "chrome": {
+    "filmstrip": {
+      "00000": "tmp/2024-11-10-android-old.reddit-chrome_00000.png",
+      "00100": "tmp/2024-11-10-android-old.reddit-chrome_00100.png",
+      "00200": "tmp/2024-11-10-android-old.reddit-chrome_00200.png",
+      "00300": "tmp/2024-11-10-android-old.reddit-chrome_00300.png",
+      "00400": "tmp/2024-11-10-android-old.reddit-chrome_00400.png",
+      "00500": "tmp/2024-11-10-android-old.reddit-chrome_00500.png",
+      "00600": "tmp/2024-11-10-android-old.reddit-chrome_00600.png",
+      "00700": "tmp/2024-11-10-android-old.reddit-chrome_00700.png",
+      "00800": "tmp/2024-11-10-android-old.reddit-chrome_00800.png",
+      "00900": "tmp/2024-11-10-android-old.reddit-chrome_00900.png",
+      "01000": "tmp/2024-11-10-android-old.reddit-chrome_01000.png",
+      "01100": "tmp/2024-11-10-android-old.reddit-chrome_01100.png",
+      "01200": "tmp/2024-11-10-android-old.reddit-chrome_01200.png",
+      "01300": "tmp/2024-11-10-android-old.reddit-chrome_01300.png",
+      "01400": "tmp/2024-11-10-android-old.reddit-chrome_01400.png",
+      "01500": "tmp/2024-11-10-android-old.reddit-chrome_01500.png",
+      "01600": "tmp/2024-11-10-android-old.reddit-chrome_01600.png",
+      "01700": "tmp/2024-11-10-android-old.reddit-chrome_01700.png",
+      "01800": "tmp/2024-11-10-android-old.reddit-chrome_01800.png",
+      "01900": "tmp/2024-11-10-android-old.reddit-chrome_01900.png",
+      "02000": "tmp/2024-11-10-android-old.reddit-chrome_02000.png",
+      "02100": "tmp/2024-11-10-android-old.reddit-chrome_02100.png",
+      "02200": "tmp/2024-11-10-android-old.reddit-chrome_02200.png",
+      "02300": "tmp/2024-11-10-android-old.reddit-chrome_02300.png",
+      "02400": "tmp/2024-11-10-android-old.reddit-chrome_02400.png",
+      "02500": "tmp/2024-11-10-android-old.reddit-chrome_02500.png",
+      "02600": "tmp/2024-11-10-android-old.reddit-chrome_02600.png",
+      "02700": "tmp/2024-11-10-android-old.reddit-chrome_02700.png",
+      "02800": "tmp/2024-11-10-android-old.reddit-chrome_02800.png",
+      "02900": "tmp/2024-11-10-android-old.reddit-chrome_02900.png",
+      "03000": "tmp/2024-11-10-android-old.reddit-chrome_03000.png",
+      "03100": "tmp/2024-11-10-android-old.reddit-chrome_03100.png",
+      "03200": "tmp/2024-11-10-android-old.reddit-chrome_03200.png",
+      "03300": "tmp/2024-11-10-android-old.reddit-chrome_03300.png",
+      "03400": "tmp/2024-11-10-android-old.reddit-chrome_03400.png",
+      "03500": "tmp/2024-11-10-android-old.reddit-chrome_03500.png",
+      "03600": "tmp/2024-11-10-android-old.reddit-chrome_03600.png",
+      "03700": "tmp/2024-11-10-android-old.reddit-chrome_03700.png",
+      "03800": "tmp/2024-11-10-android-old.reddit-chrome_03800.png",
+      "03900": "tmp/2024-11-10-android-old.reddit-chrome_03900.png",
+      "04000": "tmp/2024-11-10-android-old.reddit-chrome_04000.png",
+      "04100": "tmp/2024-11-10-android-old.reddit-chrome_04100.png",
+      "04200": "tmp/2024-11-10-android-old.reddit-chrome_04200.png",
+      "04300": "tmp/2024-11-10-android-old.reddit-chrome_04300.png",
+      "04400": "tmp/2024-11-10-android-old.reddit-chrome_04400.png",
+      "04500": "tmp/2024-11-10-android-old.reddit-chrome_04500.png",
+      "04600": "tmp/2024-11-10-android-old.reddit-chrome_04600.png",
+      "04700": "tmp/2024-11-10-android-old.reddit-chrome_04700.png",
+      "04800": "tmp/2024-11-10-android-old.reddit-chrome_04800.png",
+      "04900": "tmp/2024-11-10-android-old.reddit-chrome_04900.png",
+      "05000": "tmp/2024-11-10-android-old.reddit-chrome_05000.png",
+      "05100": "tmp/2024-11-10-android-old.reddit-chrome_05100.png"
+    },
+    "metrics": {
+      "fcp": "1718",
+      "largestContentfulPaintloadTime": "1652",
+      "largestContentfulPaintrenderTime": "1652",
+      "lcp_element": "\"\"https://reddit-image.s3.amazonaws.com/2-1940Iqnz66qZ4VQ_8xf2RhZkvMeOkaK2FTSSJ-3Vk.jpg\"\"",
+      "redirectStart": "0",
+      "redirectEnd": "0",
+      "fetchStart": "4",
+      "domainLookupStart": "15",
+      "connectStart": "64",
+      "requestStart": "144",
+      "responseStart": "1132",
+      "domInteractive": "1656",
+      "domComplete": "2937",
+      "loadEventEnd": "2957",
+      "SpeedIndex": "1773",
+      "VisualComplete85": "2015",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "1730.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "1848.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "1931.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "1948.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "1965.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "1981.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "1998.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "2014.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "2048.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2064.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2082.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "1730.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "1848.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "1931.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1948.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1965.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1981.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1998.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2014.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2048.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2064.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2082.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "1730.000000",
+          "percent": "59"
+        },
+        {
+          "timestamp": "1848.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "1931.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "1948.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "1965.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "1981.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "1998.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "2014.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "2048.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "2064.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2082.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  }
+}
