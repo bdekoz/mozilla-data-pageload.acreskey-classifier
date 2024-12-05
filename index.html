@@ -494,9 +494,9 @@ tr:hover {
       const chrome_timestamps = Object.keys(filmstripData.chrome.filmstrip);
 
       if (firefox_timestamps.length > chrome_timestamps.length) {
-        timestamps = chrome_timestamps;
+	timestamps = chrome_timestamps;
       } else {
-        timestamps = firefox_timestamps;
+	timestamps = firefox_timestamps;
       }
 
       timestamps.forEach(timestamp => {
@@ -690,10 +690,10 @@ tr:hover {
       <label for="platform-select">Platform:</label>
       <select id="platform-select" onchange="setPlatform(this.value)">
 	<option value="android">Android</option>
-        <!--
+	<!--
 	<option value="linux">Linux</option>
 	<option value="win11">Windows</option>
-        -->
+	-->
       </select>
     </div>
 
@@ -715,7 +715,11 @@ tr:hover {
 
   <script>
     var metrics = [
-      "amazon", "allrecipes", "espn", "micros-sup",
+    "amazon-139-6317191", "amazon-s-k", "app.hubspot-login", "bing-search-q",
+    "blog.playstation", "buzzfeed-romantic-movies", "chase", "cnn-todays-top",
+    "discord", "en.m.wikipedia-mozilla-corporation", "en.m.wikipedia-portal-current", "espn-soccer", "forbes-blood-thinner", "github", "huffpost-janes-addiction",
+    "m.shein", "nytimes-chimps-alamogordo", "old.reddit", "one.google",
+    "reddit-firefox-android", "reddit-stuart-russell", "support.microsoft-en-us"
     ];
 
     // Create sidebar sections
