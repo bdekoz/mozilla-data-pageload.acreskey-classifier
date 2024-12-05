@@ -397,7 +397,7 @@ tr:hover {
 		text: 'Visual Progress (%)',
 	      },
 	      min: 0,
-	      max: 100,
+	      max: 110,
 	    }
 	  }
 	}
@@ -566,10 +566,10 @@ tr:hover {
 
     window.metrics.forEach(metric => {
     let videoHTML = `
-          <video controls height="400">
-          <source src="videos/${videoPath}" type="video/mp4">
-          </video>
-        `;
+	  <video controls height="400">
+	  <source src="videos/${videoPath}" type="video/mp4">
+	  </video>
+	`;
       document.getElementById(`${metric}-video`).innerHTML = videoHTML;
     });
   }
