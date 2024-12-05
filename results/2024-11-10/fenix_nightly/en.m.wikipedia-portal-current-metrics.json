@@ -1,0 +1,192 @@
+{
+    "fcp": "429",
+    "largestContentfulPaintloadTime": "722",
+    "largestContentfulPaintrenderTime": "729",
+    "lcp_element": "\"\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Donald_Trump_official_portrait_%283x4a%29.jpg/242px-Donald_Trump_official_portrait_%283x4a%29.jpg\"\"",
+    "redirectStart": "0",
+    "redirectEnd": "0",
+    "fetchStart": "0",
+    "domainLookupStart": "16",
+    "connectStart": "25",
+    "requestStart": "164",
+    "responseStart": "262",
+    "domInteractive": "455",
+    "domComplete": "791",
+    "loadEventEnd": "795",
+    "SpeedIndex": "570",
+    "VisualComplete85": "733",
+    "PerceptualSpeedIndexProgress": [
+        {
+            "timestamp": "0.000000",
+            "percent": "0"
+        },
+        {
+            "timestamp": "417.000000",
+            "percent": "86"
+        },
+        {
+            "timestamp": "434.000000",
+            "percent": "87"
+        },
+        {
+            "timestamp": "550.000000",
+            "percent": "96"
+        },
+        {
+            "timestamp": "559.000000",
+            "percent": "96"
+        },
+        {
+            "timestamp": "576.000000",
+            "percent": "96"
+        },
+        {
+            "timestamp": "592.000000",
+            "percent": "97"
+        },
+        {
+            "timestamp": "617.000000",
+            "percent": "97"
+        },
+        {
+            "timestamp": "642.000000",
+            "percent": "98"
+        },
+        {
+            "timestamp": "651.000000",
+            "percent": "98"
+        },
+        {
+            "timestamp": "667.000000",
+            "percent": "98"
+        },
+        {
+            "timestamp": "677.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "709.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "718.000000",
+            "percent": "100"
+        }
+    ],
+    "ContentfulSpeedIndexProgress": [
+        {
+            "timestamp": "0.000000",
+            "percent": "0"
+        },
+        {
+            "timestamp": "417.000000",
+            "percent": "79"
+        },
+        {
+            "timestamp": "434.000000",
+            "percent": "82"
+        },
+        {
+            "timestamp": "550.000000",
+            "percent": "90"
+        },
+        {
+            "timestamp": "559.000000",
+            "percent": "91"
+        },
+        {
+            "timestamp": "576.000000",
+            "percent": "92"
+        },
+        {
+            "timestamp": "592.000000",
+            "percent": "93"
+        },
+        {
+            "timestamp": "617.000000",
+            "percent": "94"
+        },
+        {
+            "timestamp": "642.000000",
+            "percent": "95"
+        },
+        {
+            "timestamp": "651.000000",
+            "percent": "96"
+        },
+        {
+            "timestamp": "667.000000",
+            "percent": "97"
+        },
+        {
+            "timestamp": "677.000000",
+            "percent": "97"
+        },
+        {
+            "timestamp": "709.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "718.000000",
+            "percent": "100"
+        }
+    ],
+    "SpeedIndexProgress": [
+        {
+            "timestamp": "0.000000",
+            "percent": "0"
+        },
+        {
+            "timestamp": "417.000000",
+            "percent": "15"
+        },
+        {
+            "timestamp": "434.000000",
+            "percent": "15"
+        },
+        {
+            "timestamp": "550.000000",
+            "percent": "83"
+        },
+        {
+            "timestamp": "559.000000",
+            "percent": "83"
+        },
+        {
+            "timestamp": "576.000000",
+            "percent": "84"
+        },
+        {
+            "timestamp": "592.000000",
+            "percent": "85"
+        },
+        {
+            "timestamp": "617.000000",
+            "percent": "85"
+        },
+        {
+            "timestamp": "642.000000",
+            "percent": "85"
+        },
+        {
+            "timestamp": "651.000000",
+            "percent": "85"
+        },
+        {
+            "timestamp": "667.000000",
+            "percent": "86"
+        },
+        {
+            "timestamp": "677.000000",
+            "percent": "86"
+        },
+        {
+            "timestamp": "709.000000",
+            "percent": "84"
+        },
+        {
+            "timestamp": "718.000000",
+            "percent": "100"
+        }
+    ]
+}
