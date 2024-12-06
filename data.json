@@ -3,7 +3,7 @@
   "test": "amazon-laptop",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-amazon-laptop-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-amazon-laptop-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-amazon-laptop-firefox_00000.png",
@@ -2430,7 +2430,7 @@
   "test": "amazon-mobile-phone",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-amazon-mobile-phone-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-amazon-mobile-phone-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-amazon-mobile-phone-firefox_00000.png",
@@ -5128,7 +5128,7 @@
   "test": "app-hubspot-login",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-app-hubspot-login-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-app-hubspot-login-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-app-hubspot-login-firefox_00000.png",
@@ -6341,7 +6341,7 @@
   "test": "bing-barack-obama",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-bing-barack-obama-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-bing-barack-obama-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-bing-barack-obama-firefox_00000.png",
@@ -8714,7 +8714,7 @@
   "test": "blog-playstation",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-blog-playstation-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-blog-playstation-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-blog-playstation-firefox_00000.png",
@@ -9309,7 +9309,7 @@
   "test": "buzzfeed-romantic-movies",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-buzzfeed-romantic-movies-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-buzzfeed-romantic-movies-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-buzzfeed-romantic-movies-firefox_00000.png",
@@ -25832,7 +25832,7 @@
   "test": "chase",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-chase-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-chase-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-chase-firefox_00000.png",
@@ -28447,7 +28447,7 @@
   "test": "cnn-todays-top",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-cnn-todays-top-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-cnn-todays-top-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-cnn-todays-top-firefox_00000.png",
@@ -29723,7 +29723,7 @@
   "test": "discord",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-discord-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-discord-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-discord-firefox_00000.png",
@@ -30480,7 +30480,7 @@
   "test": "ebay-ca-pokemon-0",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-ebay-ca-pokemon-0-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-ebay-ca-pokemon-0-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-ebay-ca-pokemon-0-firefox_00000.png",
@@ -32629,7 +32629,7 @@
   "test": "en-m-wikipedia-mozilla-corporation",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-en-m-wikipedia-mozilla-corporation-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-en-m-wikipedia-mozilla-corporation-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-en-m-wikipedia-mozilla-corporation-firefox_00000.png",
@@ -33593,7 +33593,7 @@
   "test": "en-m-wikipedia-portal-current",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-en-m-wikipedia-portal-current-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-en-m-wikipedia-portal-current-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-en-m-wikipedia-portal-current-firefox_00000.png",
@@ -33910,7 +33910,7 @@
   "test": "espn-soccer",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-espn-soccer-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-espn-soccer-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-espn-soccer-firefox_00000.png",
@@ -38812,7 +38812,7 @@
   "test": "forbes-blood-thinner",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-forbes-blood-thinner-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-forbes-blood-thinner-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-forbes-blood-thinner-firefox_00000.png",
@@ -57834,7 +57834,7 @@
   "test": "github",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-github-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-github-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-github-firefox_00000.png",
@@ -63275,7 +63275,7 @@
   "test": "huffpost-janes-addiction",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-huffpost-janes-addiction-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-huffpost-janes-addiction-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-huffpost-janes-addiction-firefox_00000.png",
@@ -78395,7 +78395,7 @@
   "test": "m-shein",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-m-shein-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-m-shein-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-m-shein-firefox_00000.png",
@@ -84313,7 +84313,7 @@
   "test": "nytimes-chimps-alamogordo",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-nytimes-chimps-alamogordo-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-nytimes-chimps-alamogordo-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-nytimes-chimps-alamogordo-firefox_00000.png",
@@ -87456,7 +87456,7 @@
   "test": "old-reddit",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-old-reddit-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-old-reddit-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-old-reddit-firefox_00000.png",
@@ -87991,7 +87991,7 @@
   "test": "one-google",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-one-google-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-one-google-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-one-google-firefox_00000.png",
@@ -88399,7 +88399,7 @@
   "test": "outlook-live-inbox",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-outlook-live-inbox-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-outlook-live-inbox-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-outlook-live-inbox-firefox_00000.png",
@@ -94737,7 +94737,7 @@
   "test": "reddit-firefox",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-reddit-firefox-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-reddit-firefox-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-reddit-firefox-firefox_00000.png",
@@ -95792,7 +95792,7 @@
   "test": "reddit-stuart-russell",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-reddit-stuart-russell-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-reddit-stuart-russell-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-reddit-stuart-russell-firefox_00000.png",
@@ -97262,7 +97262,7 @@
   "test": "support-microsoft-en-us",
   "platform": "android",
   "date": "2024-11-10",
-  "video_side_by_side": "tmp/2024-11-10-android-support-microsoft-en-us-side-by-side.mp4",
+  "video_side_by_side": "2024-11-10-android-support-microsoft-en-us-side-by-side.mp4",
   "firefox": {
     "filmstrip": {
       "00000": "2024-11-10-android-support-microsoft-en-us-firefox_00000.png",
