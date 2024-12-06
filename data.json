@@ -1,6 +1,6 @@
 [
 {
-  "test": "amazon-laptop",
+  "test": "amazon_laptop",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-amazon-laptop-side-by-side.mp4",
@@ -2427,7 +2427,7 @@
   }
 },
 {
-  "test": "amazon-mobile-phone",
+  "test": "amazon_mobile_phone",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-amazon-mobile-phone-side-by-side.mp4",
@@ -5125,7 +5125,7 @@
   }
 },
 {
-  "test": "app-hubspot-login",
+  "test": "app_hubspot_login",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-app-hubspot-login-side-by-side.mp4",
@@ -6338,7 +6338,7 @@
   }
 },
 {
-  "test": "bing-barack-obama",
+  "test": "bing_barack_obama",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-bing-barack-obama-side-by-side.mp4",
@@ -8711,7 +8711,7 @@
   }
 },
 {
-  "test": "blog-playstation",
+  "test": "blog_playstation",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-blog-playstation-side-by-side.mp4",
@@ -9306,7 +9306,7 @@
   }
 },
 {
-  "test": "buzzfeed-romantic-movies",
+  "test": "buzzfeed_romantic_movies",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-buzzfeed-romantic-movies-side-by-side.mp4",
@@ -28444,7 +28444,7 @@
   }
 },
 {
-  "test": "cnn-todays-top",
+  "test": "cnn_todays_top",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-cnn-todays-top-side-by-side.mp4",
@@ -30477,7 +30477,7 @@
   }
 },
 {
-  "test": "ebay-ca-pokemon-0",
+  "test": "ebay_ca_pokemon_0",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-ebay-ca-pokemon-0-side-by-side.mp4",
@@ -32626,7 +32626,7 @@
   }
 },
 {
-  "test": "en-m-wikipedia-mozilla-corporation",
+  "test": "en_m_wikipedia_mozilla_corporation",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-en-m-wikipedia-mozilla-corporation-side-by-side.mp4",
@@ -33590,7 +33590,7 @@
   }
 },
 {
-  "test": "en-m-wikipedia-portal-current",
+  "test": "en_m_wikipedia_portal_current",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-en-m-wikipedia-portal-current-side-by-side.mp4",
@@ -33907,7 +33907,7 @@
   }
 },
 {
-  "test": "espn-soccer",
+  "test": "espn_soccer",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-espn-soccer-side-by-side.mp4",
@@ -38809,7 +38809,7 @@
   }
 },
 {
-  "test": "forbes-blood-thinner",
+  "test": "forbes_blood_thinner",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-forbes-blood-thinner-side-by-side.mp4",
@@ -63272,7 +63272,7 @@
   }
 },
 {
-  "test": "huffpost-janes-addiction",
+  "test": "huffpost_janes_addiction",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-huffpost-janes-addiction-side-by-side.mp4",
@@ -78392,7 +78392,7 @@
   }
 },
 {
-  "test": "m-shein",
+  "test": "m_shein",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-m-shein-side-by-side.mp4",
@@ -84310,7 +84310,7 @@
   }
 },
 {
-  "test": "nytimes-chimps-alamogordo",
+  "test": "nytimes_chimps_alamogordo",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-nytimes-chimps-alamogordo-side-by-side.mp4",
@@ -87453,7 +87453,7 @@
   }
 },
 {
-  "test": "old-reddit",
+  "test": "old_reddit",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-old-reddit-side-by-side.mp4",
@@ -87988,7 +87988,7 @@
   }
 },
 {
-  "test": "one-google",
+  "test": "one_google",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-one-google-side-by-side.mp4",
@@ -88396,7 +88396,7 @@
   }
 },
 {
-  "test": "outlook-live-inbox",
+  "test": "outlook_live_inbox",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-outlook-live-inbox-side-by-side.mp4",
@@ -94734,7 +94734,7 @@
   }
 },
 {
-  "test": "reddit-firefox",
+  "test": "reddit_firefox",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-reddit-firefox-side-by-side.mp4",
@@ -95789,7 +95789,7 @@
   }
 },
 {
-  "test": "reddit-stuart-russell",
+  "test": "reddit_stuart_russell",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-reddit-stuart-russell-side-by-side.mp4",
@@ -97259,7 +97259,7 @@
   }
 },
 {
-  "test": "support-microsoft-en-us",
+  "test": "support_microsoft_en_us",
   "platform": "android",
   "date": "2024-11-10",
   "video_side_by_side": "2024-11-10-android-support-microsoft-en-us-side-by-side.mp4",
