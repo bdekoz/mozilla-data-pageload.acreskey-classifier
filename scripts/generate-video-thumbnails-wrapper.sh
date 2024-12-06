@@ -25,13 +25,21 @@ generate_platform_by_sitelist() {
        ARTIFACT_BASE="$ISODATE-$TPLATFORM";
 
        echo "$i"
-       echo "$URLM"
+       echo "${URLM}"
 
+       FFJSON=${FIREFOXDIR}/${URLM}-metrics.json
+       FFMAX=`cat ${FFJSON} | jq -r '.VisualComplete99'`
        FFV="${ODIR}/${ARTIFACT_BASE}-firefox.mp4"
-       $XTHUMBNAILS $FFV
-       
+       $XTHUMBNAILS $FFV $FFMAX
+       echo "$FFV + $FFMAX"
+
+       CJSON=${CHROMEDIR}/${URLM}-metrics.json
+       CMAX=`cat ${CJSON} | jq -r '.VisualComplete99'`
        CV="${ODIR}/${ARTIFACT_BASE}-chrome.mp4"
-       $XTHUMBNAILS $CV
+       $XTHUMBNAILS $CV $CMAX
+       echo "$CV + $CMAX"
+
+       echo ""
    done
 
 }

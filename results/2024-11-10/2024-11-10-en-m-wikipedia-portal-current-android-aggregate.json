@@ -1,0 +1,317 @@
+{
+  "test": "en-m-wikipedia-portal-current",
+  "platform": "android",
+  "date": "2024-11-10",
+  "video_side_by_side": "tmp/2024-11-10-android-en-m-wikipedia-portal-current-side-by-side.mp4",
+  "firefox": {
+    "filmstrip": {
+      "00000": "2024-11-10-android-en-m-wikipedia-portal-current-firefox_00000.png",
+      "00100": "2024-11-10-android-en-m-wikipedia-portal-current-firefox_00100.png",
+      "00200": "2024-11-10-android-en-m-wikipedia-portal-current-firefox_00200.png",
+      "00300": "2024-11-10-android-en-m-wikipedia-portal-current-firefox_00300.png",
+      "00400": "2024-11-10-android-en-m-wikipedia-portal-current-firefox_00400.png",
+      "00500": "2024-11-10-android-en-m-wikipedia-portal-current-firefox_00500.png",
+      "00600": "2024-11-10-android-en-m-wikipedia-portal-current-firefox_00600.png"
+    },
+    "metrics": {
+      "fcp": "429",
+      "largestContentfulPaintloadTime": "722",
+      "largestContentfulPaintrenderTime": "729",
+      "lcp_element": "\"\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Donald_Trump_official_portrait_%283x4a%29.jpg/242px-Donald_Trump_official_portrait_%283x4a%29.jpg\"\"",
+      "redirectStart": "0",
+      "redirectEnd": "0",
+      "fetchStart": "0",
+      "domainLookupStart": "16",
+      "connectStart": "25",
+      "requestStart": "164",
+      "responseStart": "262",
+      "domInteractive": "455",
+      "domComplete": "791",
+      "loadEventEnd": "795",
+      "SpeedIndex": "570",
+      "VisualComplete85": "733",
+      "VisualComplete99": "733",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "465.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "566.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "574.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "583.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "615.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "632.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "641.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "649.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "666.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "682.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "691.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "700.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "715.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "732.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "465.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "566.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "574.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "583.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "615.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "632.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "641.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "649.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "666.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "682.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "691.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "700.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "715.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "732.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "465.000000",
+          "percent": "16"
+        },
+        {
+          "timestamp": "566.000000",
+          "percent": "16"
+        },
+        {
+          "timestamp": "574.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "583.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "615.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "632.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "641.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "649.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "666.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "682.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "691.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "700.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "715.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "732.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  },
+  "chrome": {
+    "filmstrip": {
+      "00000": "2024-11-10-android-en-m-wikipedia-portal-current-chrome_00000.png",
+      "00100": "2024-11-10-android-en-m-wikipedia-portal-current-chrome_00100.png",
+      "00200": "2024-11-10-android-en-m-wikipedia-portal-current-chrome_00200.png",
+      "00300": "2024-11-10-android-en-m-wikipedia-portal-current-chrome_00300.png",
+      "00400": "2024-11-10-android-en-m-wikipedia-portal-current-chrome_00400.png",
+      "00500": "2024-11-10-android-en-m-wikipedia-portal-current-chrome_00500.png"
+    },
+    "metrics": {
+      "fcp": "585",
+      "largestContentfulPaintloadTime": "0",
+      "largestContentfulPaintrenderTime": "594",
+      "lcp_element": "\"\"<li></li>\"\"",
+      "redirectStart": "0",
+      "redirectEnd": "0",
+      "fetchStart": "4",
+      "domainLookupStart": "4",
+      "connectStart": "4",
+      "requestStart": "129",
+      "responseStart": "228",
+      "domInteractive": "579",
+      "domComplete": "722",
+      "loadEventEnd": "723",
+      "SpeedIndex": "561",
+      "VisualComplete85": "555",
+      "VisualComplete99": "636",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "560.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "577.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "593.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "626.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "560.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "577.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "593.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "626.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "560.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "577.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "593.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "626.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  }
+}

@@ -49,22 +49,21 @@ generate_platform_by_sitelist() {
 
        $XAGGREGATE "$URLM" "$PLATFORM" "$ISODATE" "${ARTIFACT_BASE}-side-by-side.mp4" "$FFFJ" "$FFMJ" "$CFJ" "$CMJ"
    done
-
 }
 
 #generate_platform_by_sitelist "android" "../sitelist.txt" "2024-11-10"
 
 # 3
 generate_data_json() {
-    
+
     OFILE=data.json
     echo "[" >> $OFILE
     for i in `ls *-aggregate.json`
     do
 	cat $i >> $OFILE
-	echo "," >> $OFILE	
+	echo "," >> $OFILE
     done
     echo "]" >> $OFILE
 }
 
-generate_data_json 
+generate_data_json

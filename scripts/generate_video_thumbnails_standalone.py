@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # run like:
-# /generate_video_thumbnails_standalone.py video.mp4
+# /generate_video_thumbnails_standalone.py video.mp4 cutmax
 
 import sys
 import os
@@ -13,7 +13,10 @@ from pathlib import Path
 ifile = sys.argv[1];
 filename = Path(ifile);
 filenamebase = os.path.splitext(filename)[0]
+ofnamebase = os.path.basename(filenamebase)
 print("input file: ", ifile)
+print("ofilenamebase: ", ofnamebase)
+
 
 # Find duration of input video file in milliseconds
 def video_duration(ivideo):
@@ -25,9 +28,27 @@ def video_duration(ivideo):
         dur = float(0)
     return dur * 1000;
 
-
 durms=video_duration(ifile)
 print("duration in ms: ", durms)
+
+
+# limits, hard max is 10sec.
+hardmax = 10 * 1000;
+maxvlen = int(sys.argv[2]);
+
+def minimum(a, b):
+  if a < b:
+    return a
+  else:
+    return b
+
+def minimum_vlen():
+    a = minimum(maxvlen, hardmax)
+    b = minimum(a, durms)
+    return b
+
+print("max length of video: ", minimum_vlen())
+
 
 # serialiaztion dictionary for json
 filmstrip_dict = {}
@@ -60,13 +81,13 @@ def generate_video_filmstrip_partition_n(ivideo, totaln):
         fcommand="ffmpeg -i " + ifile + cspace + thumbflag + cspace + ofname
         #print(str(timecoden) + cspace + fcommand)
         os.system(fcommand)
-        filmstrip_dict[str(i)] = ofname
+        filmstrip_dict[str(i)] = f"{ofnamebase}_{i:02d}.png"
 
 
 # intervaln is integer of interval between frames in milliseconds (ms)
 def generate_video_filmstrip_interval(ivideo, intervaln):
     cspace = ' '
-    totaln = int(durms / intervaln)
+    totaln = int(minimum_vlen() / intervaln)
     offset = 0;
     for i in range(totaln):
         print(i)
@@ -84,7 +105,7 @@ def generate_video_filmstrip_interval(ivideo, intervaln):
         fcommand="ffmpeg -i " + ifile + cspace + thumbflag + cspace + ofname
         #print(str(timecoden) + cspace + fcommand)
         os.system(fcommand)
-        filmstrip_dict[timecodestr] = ofname
+        filmstrip_dict[timecodestr] = f"{ofnamebase}_{timecodestr}.png"
 
 
 # Assume ivideo.json file created during extraction.
