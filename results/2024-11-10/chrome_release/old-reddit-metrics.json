@@ -1,0 +1,169 @@
+{
+    "fcp": "1718",
+    "largestContentfulPaintloadTime": "1652",
+    "largestContentfulPaintrenderTime": "1652",
+    "lcp_element": "\"\"https://reddit-image.s3.amazonaws.com/2-1940Iqnz66qZ4VQ_8xf2RhZkvMeOkaK2FTSSJ-3Vk.jpg\"\"",
+    "redirectStart": "0",
+    "redirectEnd": "0",
+    "fetchStart": "4",
+    "domainLookupStart": "15",
+    "connectStart": "64",
+    "requestStart": "144",
+    "responseStart": "1132",
+    "domInteractive": "1656",
+    "domComplete": "2937",
+    "loadEventEnd": "2957",
+    "SpeedIndex": "1773",
+    "VisualComplete85": "2015",
+    "VisualComplete99": "2015",
+    "PerceptualSpeedIndexProgress": [
+        {
+            "timestamp": "0.000000",
+            "percent": "0"
+        },
+        {
+            "timestamp": "1689.000000",
+            "percent": "86"
+        },
+        {
+            "timestamp": "1706.000000",
+            "percent": "87"
+        },
+        {
+            "timestamp": "1822.000000",
+            "percent": "92"
+        },
+        {
+            "timestamp": "1888.000000",
+            "percent": "94"
+        },
+        {
+            "timestamp": "1905.000000",
+            "percent": "95"
+        },
+        {
+            "timestamp": "1922.000000",
+            "percent": "96"
+        },
+        {
+            "timestamp": "1939.000000",
+            "percent": "96"
+        },
+        {
+            "timestamp": "1956.000000",
+            "percent": "97"
+        },
+        {
+            "timestamp": "1973.000000",
+            "percent": "98"
+        },
+        {
+            "timestamp": "1989.000000",
+            "percent": "98"
+        },
+        {
+            "timestamp": "2022.000000",
+            "percent": "100"
+        }
+    ],
+    "ContentfulSpeedIndexProgress": [
+        {
+            "timestamp": "0.000000",
+            "percent": "0"
+        },
+        {
+            "timestamp": "1689.000000",
+            "percent": "98"
+        },
+        {
+            "timestamp": "1706.000000",
+            "percent": "98"
+        },
+        {
+            "timestamp": "1822.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1888.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1905.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1922.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1939.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1956.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1973.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1989.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "2022.000000",
+            "percent": "100"
+        }
+    ],
+    "SpeedIndexProgress": [
+        {
+            "timestamp": "0.000000",
+            "percent": "0"
+        },
+        {
+            "timestamp": "1689.000000",
+            "percent": "57"
+        },
+        {
+            "timestamp": "1706.000000",
+            "percent": "57"
+        },
+        {
+            "timestamp": "1822.000000",
+            "percent": "79"
+        },
+        {
+            "timestamp": "1888.000000",
+            "percent": "79"
+        },
+        {
+            "timestamp": "1905.000000",
+            "percent": "79"
+        },
+        {
+            "timestamp": "1922.000000",
+            "percent": "79"
+        },
+        {
+            "timestamp": "1939.000000",
+            "percent": "79"
+        },
+        {
+            "timestamp": "1956.000000",
+            "percent": "79"
+        },
+        {
+            "timestamp": "1973.000000",
+            "percent": "79"
+        },
+        {
+            "timestamp": "1989.000000",
+            "percent": "79"
+        },
+        {
+            "timestamp": "2022.000000",
+            "percent": "100"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "fcp": "585",
+    "largestContentfulPaintloadTime": "0",
+    "largestContentfulPaintrenderTime": "594",
+    "lcp_element": "\"\"<li></li>\"\"",
+    "redirectStart": "0",
+    "redirectEnd": "0",
+    "fetchStart": "4",
+    "domainLookupStart": "4",
+    "connectStart": "4",
+    "requestStart": "129",
+    "responseStart": "228",
+    "domInteractive": "579",
+    "domComplete": "722",
+    "loadEventEnd": "723",
+    "SpeedIndex": "561",
+    "VisualComplete85": "555",
+    "VisualComplete99": "636",
+    "PerceptualSpeedIndexProgress": [
+        {
+            "timestamp": "0.000000",
+            "percent": "0"
+        },
+        {
+            "timestamp": "560.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "577.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "593.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "626.000000",
+            "percent": "100"
+        }
+    ],
+    "ContentfulSpeedIndexProgress": [
+        {
+            "timestamp": "0.000000",
+            "percent": "0"
+        },
+        {
+            "timestamp": "560.000000",
+            "percent": "98"
+        },
+        {
+            "timestamp": "577.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "593.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "626.000000",
+            "percent": "100"
+        }
+    ],
+    "SpeedIndexProgress": [
+        {
+            "timestamp": "0.000000",
+            "percent": "0"
+        },
+        {
+            "timestamp": "560.000000",
+            "percent": "88"
+        },
+        {
+            "timestamp": "577.000000",
+            "percent": "88"
+        },
+        {
+            "timestamp": "593.000000",
+            "percent": "88"
+        },
+        {
+            "timestamp": "626.000000",
+            "percent": "100"
+        }
+    ]
+}

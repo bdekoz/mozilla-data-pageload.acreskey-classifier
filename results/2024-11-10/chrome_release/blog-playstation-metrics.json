@@ -1,0 +1,265 @@
+{
+    "fcp": "394",
+    "largestContentfulPaintloadTime": "302",
+    "largestContentfulPaintrenderTime": "394",
+    "lcp_element": "\"\"https://blog.playstation.com/tachyon/2024/11/cd841e7da1a555d16c0b87855572793c79d83e11.jpg?resize=1088%2C612&crop_strategy=smart&zoom=1\"\"",
+    "redirectStart": "0",
+    "redirectEnd": "0",
+    "fetchStart": "4",
+    "domainLookupStart": "12",
+    "connectStart": "57",
+    "requestStart": "126",
+    "responseStart": "164",
+    "domInteractive": "505",
+    "domComplete": "1026",
+    "loadEventEnd": "1030",
+    "SpeedIndex": "414",
+    "VisualComplete85": "479",
+    "VisualComplete99": "608",
+    "PerceptualSpeedIndexProgress": [
+        {
+            "timestamp": "0.000000",
+            "percent": "0"
+        },
+        {
+            "timestamp": "328.000000",
+            "percent": "80"
+        },
+        {
+            "timestamp": "361.000000",
+            "percent": "85"
+        },
+        {
+            "timestamp": "394.000000",
+            "percent": "88"
+        },
+        {
+            "timestamp": "427.000000",
+            "percent": "91"
+        },
+        {
+            "timestamp": "444.000000",
+            "percent": "92"
+        },
+        {
+            "timestamp": "511.000000",
+            "percent": "97"
+        },
+        {
+            "timestamp": "545.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "563.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "578.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "594.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "611.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "627.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "644.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "661.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "677.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "695.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "711.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "729.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "745.000000",
+            "percent": "100"
+        }
+    ],
+    "ContentfulSpeedIndexProgress": [
+        {
+            "timestamp": "0.000000",
+            "percent": "0"
+        },
+        {
+            "timestamp": "328.000000",
+            "percent": "81"
+        },
+        {
+            "timestamp": "361.000000",
+            "percent": "86"
+        },
+        {
+            "timestamp": "394.000000",
+            "percent": "92"
+        },
+        {
+            "timestamp": "427.000000",
+            "percent": "96"
+        },
+        {
+            "timestamp": "444.000000",
+            "percent": "97"
+        },
+        {
+            "timestamp": "511.000000",
+            "percent": "98"
+        },
+        {
+            "timestamp": "545.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "563.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "578.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "594.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "611.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "627.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "644.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "661.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "677.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "695.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "711.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "729.000000",
+            "percent": "100"
+        },
+        {
+            "timestamp": "745.000000",
+            "percent": "100"
+        }
+    ],
+    "SpeedIndexProgress": [
+        {
+            "timestamp": "0.000000",
+            "percent": "0"
+        },
+        {
+            "timestamp": "328.000000",
+            "percent": "15"
+        },
+        {
+            "timestamp": "361.000000",
+            "percent": "60"
+        },
+        {
+            "timestamp": "394.000000",
+            "percent": "60"
+        },
+        {
+            "timestamp": "427.000000",
+            "percent": "69"
+        },
+        {
+            "timestamp": "444.000000",
+            "percent": "69"
+        },
+        {
+            "timestamp": "511.000000",
+            "percent": "94"
+        },
+        {
+            "timestamp": "545.000000",
+            "percent": "94"
+        },
+        {
+            "timestamp": "563.000000",
+            "percent": "95"
+        },
+        {
+            "timestamp": "578.000000",
+            "percent": "96"
+        },
+        {
+            "timestamp": "594.000000",
+            "percent": "96"
+        },
+        {
+            "timestamp": "611.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "627.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "644.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "661.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "677.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "695.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "711.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "729.000000",
+            "percent": "99"
+        },
+        {
+            "timestamp": "745.000000",
+            "percent": "100"
+        }
+    ]
+}
