@@ -36,7 +36,7 @@ generate_platform_by_sitelist() {
    do
        URLM=`${XURLMIN} "$i"`
        TPLATFORM="${PLATFORM}-${URLM}"
-       ARTIFACT_BASE="${ODIR}/${ISODATE}-${TPLATFORM}";
+       ARTIFACT_BASE="${ISODATE}-${TPLATFORM}";
 
        echo "$i"
        echo "$URLM"
