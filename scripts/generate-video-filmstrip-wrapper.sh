@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 XURLMIN=$MOZPERFAX/bin/moz-perf-x-transform-url.exe
-XTHUMBNAILS=../../scripts/generate_video_thumbnails_standalone.py
+XTHUMBNAILS=../../scripts/generate_video_filmstrip_standalone.py
 
 CHROMEDIR=chrome_release
 FIREFOXDIR=fenix_nightly
