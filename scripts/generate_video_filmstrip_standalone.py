@@ -118,7 +118,7 @@ def serialize_data(ivideo, filmstrip_res, tdict, ofname):
         with open(ivideoj, 'r') as vj:
             vdata_dict = json.load(vj)
             vdict["video"] = vdata_dict
-    vdict["filmstrip_interval_ms"] = filmstrip_res
+    vdict["filmstrip_interval"] = filmstrip_res
     vdict["filmstrip"] = tdict
     with open(ofname, 'w') as f:
         json.dump(vdict, f, indent=2)
